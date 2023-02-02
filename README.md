@@ -1,5 +1,14 @@
 🌱 Student who currently learning Java 
 
+The one who wants to be a great developer
+
+My SNS
+<a href="https://blog.naver.com/junkue17" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=square-flat&logo=Naver&logoColor=white"/></a>
+<!-- <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=square-flat&logo=로고&logoColor=로고색상"/></a> -->
+
+
+
+
 <!--
 **junkue20/junkue20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
