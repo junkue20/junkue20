@@ -1,8 +1,6 @@
 🌱 Student who currently learning Java 
 
 The one who wants to be a great developer
-
-<br>
 <br>
 <br>
 <br>
