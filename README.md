@@ -1,7 +1,7 @@
 <div align="center">
-  🌱 Student who currently learning Java 
+  🌱 Student who currently learning Java 🌱
 
-The one who wants to be a great developer
+✨ The one who wants to be a great developer ✨
 
 
 
