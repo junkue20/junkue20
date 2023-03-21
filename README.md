@@ -21,7 +21,6 @@
   
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=junkue20&show_icons=true&theme=highcontrast)<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=junkue30)](https://solved.ac/junkue30)
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junkue20&layout=compact&theme=tokyonight)
 </div>
 
