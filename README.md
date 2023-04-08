@@ -7,10 +7,9 @@
 ### ✨ The one who wants to be a great developer ✨
 
 <br>
+<br>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunkue20%2Fhit-counter&count_bg=%23FB3838&title_bg=%23333333&icon=&icon_color=%23E7E7E7&title=Today%27s+Hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<br>
 
 <hr/>
 
