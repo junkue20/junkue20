@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&text=JunGyu%Park&amp;desc='s%20GitHub&amp;descAlign=94&amp;descAlignY=40&fontColor=ECD53F&fontAlign=80&fontAlignY=20&fontSize=50&rotate=7&animation=twinkling&color=222225 )
+![header](https://capsule-render.vercel.app/api?type=slice&text=JunGyu_%Park&amp;desc='s%20GitHub&amp;descAlign=94&amp;descAlignY=40&fontColor=ECD53F&fontAlign=80&fontAlignY=20&fontSize=50&rotate=7&animation=twinkling&color=222225 )
 
 <div align="center"> 
   
