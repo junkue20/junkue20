@@ -14,7 +14,7 @@
 
 <hr/>
 
-## 🎨 My Tech Stacks 🎨
+### 🎨 My Tech Stacks 🎨
 <br>
   
 ### I've used
