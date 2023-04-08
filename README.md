@@ -15,7 +15,7 @@
 <a href="https://www.instagram.com/junkue20/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=square-flat&logo=Instagram&logoColor=white"/></a>
 
 <br>
-<div align="center">
+
 <br>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junkue20&layout=compact&theme=tokyonight)
