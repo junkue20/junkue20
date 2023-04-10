@@ -47,10 +47,10 @@
 <br>
   
 #### 📫 And Here's my SNS
-
+  
+<a href="https://www.notion.so/junkue20/KEEP-GOING-s-PORTFOLIO-53b944a6cd464cd6bf28da39db3eccb0" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=squrae-flat&logo=Notion&logoColor=white"/></a>
 <a href="https://blog.naver.com/junkue17" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=square-flat&logo=Naver&logoColor=white"/></a>
 <a href="https://velog.io/@junkue20" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=square-flat&logo=Velog&logoColor=white"/></a>
-<a href="https://www.notion.so/junkue20/KEEP-GOING-s-PORTFOLIO-53b944a6cd464cd6bf28da39db3eccb0" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=squrae-flat&logo=Notion&logoColor=white"/></a>
 <a href="https://www.instagram.com/junkue20/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=square-flat&logo=Instagram&logoColor=white"/></a>
 <!-- sns 추가할땐 이 코드 사용! <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a> -->
   
