@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/oracle-f80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=mongoDB&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apache tomcat&logoColor=black">
-<img src="https://img.shields.io/badge/Markdown-222222?style=for-the-badge&logo=Markdown&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/Markdown-222222?style=for-the-badge&logo=Markdown&logoColor=white"> -->
 
   
 <!-- 언어 추가할땐 이 코드 사용! <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"> -->
