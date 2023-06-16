@@ -2,9 +2,9 @@
 
 <div align="center"> 
   
-### 🌱 I'm Student who currently learning Java 🌱
+### 🌱 I am Junkyu Park, a student who wants to become a constantly growing developer.🌱
 
-### ✨ The one who wants to be a great developer ✨
+### ✨ I aim to give high satisfaction to all users with the results I created.✨
 
 <br>
 <br>
