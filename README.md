@@ -2,7 +2,7 @@
 
 <div align="center"> 
   
-### 🌱 Student who currently learning Java 🌱
+### 🌱 I'm Student who currently learning Java 🌱
 
 ### ✨ The one who wants to be a great developer ✨
 
