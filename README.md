@@ -2,7 +2,7 @@
 
 <div align="center"> 
   
-### 🌱 I am Junkyu Park, a student who wants to become a constantly growing developer.🌱
+### 🌱 I am JunGyu Park, a student who wants to become a constantly growing developer.🌱
 
 ### ✨ I aim to give high satisfaction to all users with the results I created.✨
 
