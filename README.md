@@ -14,34 +14,28 @@
 <hr/>
 
 ### 🎨 My Tech Stacks 🎨
-<br>
-  
-### I've used
-  
+
+### Before, I've used 
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/oracle-f80000?style=for-the-badge&logo=oracle&logoColor=white"><br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"><br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+
+<br>
+<br>
+
+### Now, I usually use
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"><br>
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/oracle-f80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 
   
 <!-- 언어 추가할땐 이 코드 사용! <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"> -->
 
-
 <br>
 <br>
 
-### My Tools
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-<img src="https://img.shields.io/badge/github-222222?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-
-<br>
-<br>
-<br>
   
 #### 📫 And Here's my SNS
   
