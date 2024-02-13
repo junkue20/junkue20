@@ -54,7 +54,9 @@
   
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junkue20&layout=compact&theme=highcontrast) -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=junkue30)](https://solved.ac/junkue30)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junkue30)](https://solved.ac/junkue30)
+
+출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
   
 <!-- ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=junkue20&show_icons=true&theme=highcontrast) -->
   
