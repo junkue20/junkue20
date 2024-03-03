@@ -38,7 +38,7 @@
 <br>
 <br>
 
-### 📝 This is my resume and portfolio
+### 📝 These are my resume and portfolio
 
 <a href="https://www.jungyu.info/" target="_blank"><img src="https://img.shields.io/badge/Resume-000000?style=squrae-flat&logo=Notion&logoColor=white"/></a>
 <a href="https://www.miricanvas.com/v/12vborm" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=squrae-flat&logo=Files&logoColor=white"/></a>
