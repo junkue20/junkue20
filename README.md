@@ -40,7 +40,7 @@
 
 ### 📝 These are my resume and portfolio
 
-<a href="https://www.jungyu.info/" target="_blank"><img src="https://img.shields.io/badge/Resume-000000?style=squrae-flat&logo=Notion&logoColor=white"/></a>
+<a href="https://junkue20.notion.site/Park-Jun-Gyu-53b944a6cd464cd6bf28da39db3eccb0" target="_blank"><img src="https://img.shields.io/badge/Resume-000000?style=squrae-flat&logo=Notion&logoColor=white"/></a>
 <a href="https://www.miricanvas.com/v/12vborm" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=squrae-flat&logo=Files&logoColor=white"/></a>
 
 <br>
